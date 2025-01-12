@@ -1,2 +1,2 @@
 #ShareBite
-Full Application
+Full Stack Project
